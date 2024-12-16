@@ -27,3 +27,4 @@ result = solution.getFinalState(
     multiplier=2)
 
 print(result)
+
